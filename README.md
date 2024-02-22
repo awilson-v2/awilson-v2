@@ -1,6 +1,5 @@
-- Foundational Engineering Leadership and Solution Delivery
 - Android Application & SDK Development
-- Flutter cross-platform applications (Mac, Linux, Web)
+- Flutter cross-platform applications
 - Cloud Solution Architecture, Systems Design & Data Management
 - DevOps, CI/CD, GitOps, Infrastructure
 - Enterprise Mobility Management, Identity & Access Management
